@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KavishBaingane
-- 👀 I’m interested in Web Application
-- 🌱 I’m currently learning .NET
+- 🌱 I’m a Software Engineer who Creats website using dot net core.
 - 
 - 📫 How to reach me @baingane
 
