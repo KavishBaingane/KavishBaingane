@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KavishBaingane
-- 🌱 I’m a Software Engineer who Creats website using dot net core.
+- 🌱 I’m a Software Engineer who Create websites using Microsoft Stack.
 - 
 - 📫 How to reach me @baingane
 
